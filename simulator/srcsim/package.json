@@ -1,0 +1,19 @@
+{
+  "name": "srcsim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "crypto-random-string": "^5.0.0",
+    "exceljs": "^4.4.0",
+    "moment": "^2.30.1",
+    "pm2": "^5.4.2",
+    "uuid": "^10.0.0"
+  }
+}
